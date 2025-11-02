@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: yellow_trip_entire_table
+    description: "Contains all the rows and columns of yellow trip dataset"
+  - name: metrics
+    description: "Contains all the metrics from the parent table"
+  - name: date_tim_table
+    description: "Contains the composite key (vendor_id + pickup time), year, month & day dimensions from the parent table"
+  - name: trip_information
+    description: "Contains information about the trip made such as Pickup & Dropoff locations, payment type & the final rate code in effect at the time of the drop-off"
