@@ -32,10 +32,11 @@ It’s intuitive, easy to query, and optimized for tools like Power BI or Tablea
 
 By organizing data this way, you can:
 
-Improve query performance
+- Improve query performance
 
-Simplify data relationships
+- Simplify data relationships
 
-Enable cleaner dashboards and more accurate aggregations
+- Enable cleaner dashboards and more accurate aggregations
+
 <img width="781" height="501" alt="Star_Schema" src="https://github.com/user-attachments/assets/71b48c5e-166d-441a-a923-10865c830dab" />
 
