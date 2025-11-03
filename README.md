@@ -37,3 +37,5 @@ Improve query performance
 Simplify data relationships
 
 Enable cleaner dashboards and more accurate aggregations
+<img width="781" height="501" alt="Star_Schema" src="https://github.com/user-attachments/assets/71b48c5e-166d-441a-a923-10865c830dab" />
+
