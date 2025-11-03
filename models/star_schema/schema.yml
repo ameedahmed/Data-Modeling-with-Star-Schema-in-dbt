@@ -7,5 +7,7 @@ models:
     description: "Contains all the metrics from the parent table"
   - name: date_tim_table
     description: "Contains the composite key (vendor_id + pickup time), year, month & day dimensions from the parent table"
-  - name: trip_information
-    description: "Contains information about the trip made such as Pickup & Dropoff locations, payment type & the final rate code in effect at the time of the drop-off"
+  - name: Location_information
+    description: "Contains information about the trip made such as Pickup & Dropoff locations & the drop off zone"
+  - name: payment_information
+    description: "Contains information about the payment details of the trip"
